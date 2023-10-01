@@ -1,6 +1,6 @@
 # License 
-## [Creative Commons Attribution 4.0 International (CC BY-NC-SA 4.0)Human readable](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-## [Legal Code](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
+#### [Creative Commons Attribution 4.0 International (CC BY-NC-SA 4.0)Human readable](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+#### [Legal Code](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
 You are free to:
 
