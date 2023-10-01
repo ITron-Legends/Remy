@@ -11,7 +11,7 @@ A Custom bot specifically designed to help moderators and admin control Roblox s
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@ITron-Legends](https://www.github.com/ITron-Legends)
 
 
 ## Badges
