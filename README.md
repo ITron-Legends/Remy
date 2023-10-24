@@ -16,49 +16,36 @@ A Custom bot specifically designed to help moderators and admin control Roblox s
 
 ![CC BY-NC-SA 4.0](https://img.shields.io/badge/CC%20BY--NC--SA%204.0-0059b3?style=flat&logo=creativecommons&logoColor=white)
 
+## Features
 
-## Roadmap ( picture of roadmap )
-
-- Additional browser support
-
-- Add more integrations
-
-
-## Features (do later)
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-
-## Demo
-
-Insert gif or link to demo (soon)
-
+- Multiple Slash commands for ease of use
+- Automatic Trello Reporting system 
+- UserAlower | Make specific users Access to more commands.
+- Roblox Find For easy lookup of Roblox users
 
 ## Deployment
 
 To deploy this project run (soon)
 
-```soon
+```https://github.com/ITron-Legends/Remy.git
 ```
+then run `main.py`
 
 
 ## FAQ
 
-#### Question 1
+#### Is there any support?
 
-Answer 1
+No not currently.
 
-#### Question 2
+#### Can i make my own python commands?
 
-Answer 2
+Yes you can! Just make a Subdirectory in ./cogs and put the .py file. **You'll need to have Implemented cogs in your py file**
 
 
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
+To run this project, you will need to add the following environment variables to your .env file 
 
 `API_KEY`
 
