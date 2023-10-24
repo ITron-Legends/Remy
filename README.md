@@ -7,13 +7,6 @@ A Custom bot specifically designed to help moderators and admin control Roblox s
 
 
 
-
-
-## Authors
-
-- [@ITron-Legends](https://www.github.com/ITron-Legends)
-
-
 ## Badges
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
