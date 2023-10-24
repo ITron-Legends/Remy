@@ -6,8 +6,7 @@ A Custom bot specifically designed to help moderators and admin control Roblox s
 ![Logo](https://cdn.discordapp.com/attachments/1121718424398221373/1158021113264230430/Picsart_23-10-01_17-41-28-154.png)
 
 
-
-[![Discord](https://img.shields.io/badge/Discord.py-Remy-purple?logo=discord)](https://discord.com)
+![Made with Discord.py](https://img.shields.io/badge/Made%20with%20Discord.py-0388cb?style=flat&logo=discord&logoColor=white)
 
 
 ![Auto module detection system ](https://img.shields.io/badge/Auto%20module%20detection%20system-4c04ba?style=flat&logo=Discogs&logoColor=Black)
