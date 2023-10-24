@@ -11,7 +11,7 @@ A Custom bot specifically designed to help moderators and admin control Roblox s
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
 
-[![Discord.py](https://img.shields.io/badge/Discord.py-Remy%202.0-purple?logo=discord)](https://choosealicense.com/licenses/mit/)
+[![Discord.py](https://img.shields.io/badge/Discord.py-Remy-purple?logo=discord)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
