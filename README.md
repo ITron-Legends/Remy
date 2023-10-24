@@ -12,7 +12,7 @@ A Custom bot specifically designed to help moderators and admin control Roblox s
 Add badges from somewhere like: [shields.io](https://shields.io/)
 
 [![Discord.py](https://img.shields.io/badge/Discord.py-Remy-purple?logo=discord)
-[![Environment variables](https://img.shields.io/badge/Supports%20Environment%20variables-Remy%202.0-purple?logo=dotenv)](https://opensource.org/licenses/)
+[![Environment variables](https://img.shields.io/badge/Supports%20Environment%20variables-Remy%202.0-purple?logo=dotenv)](https://en.m.wikipedia.org/wiki/Environment_variable#:~:text=An%20environment%20variable%20is%20a,in%20which%20a%20process%20runs.)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
