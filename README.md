@@ -10,7 +10,7 @@ A Custom bot specifically designed to help moderators and admin control Roblox s
 
 ![Auto module detection system ](https://img.shields.io/badge/Auto%20module%20detection%20system-4c04ba?style=flat&logo=Discogs&logoColor=Black)
 
-![Supports Slash commands](https://img.shields.io/badge/Supports%20Slash%20commands-0059b3?style=flat&logo=slashdot&logoColor=white)
+![Supports Slash commands](https://img.shields.io/badge/Supports%20Slash%20commands-00b3b3?style=flat&logo=slashdot&logoColor=white)
 
 ![Supports Environment variables](https://img.shields.io/badge/Supports%20Environment%20variables-.ENV-black?labelColor=4d4dff&style=flat&logo=dotenv&logoColor=white)
 
