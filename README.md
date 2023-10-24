@@ -14,7 +14,7 @@ A Custom bot specifically designed to help moderators and admin control Roblox s
 ![Supports Environment variables](https://img.shields.io/badge/Supports%20Environment%20variables-.ENV-black?labelColor=4d4dff&style=flat&logo=dotenv&logoColor=white)
 
 
-[![AGPL License](https://img.shields.io/badge/Attribution%20NonCommercial%20ShareAlike%204.0%20International-Remy%20Beta-purple?logo=creativecommons)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
+![CC BY-NC-SA 4.0](https://img.shields.io/badge/CC%20BY--NC--SA%204.0-0059b3?style=flat&logo=creativecommons&logoColor=white)
 
 
 ## Roadmap ( picture of roadmap )
