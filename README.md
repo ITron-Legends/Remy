@@ -6,6 +6,10 @@ A Custom bot specifically designed to help moderators and admin control Roblox s
 ![Logo](https://cdn.discordapp.com/attachments/1121718424398221373/1158021113264230430/Picsart_23-10-01_17-41-28-154.png)
 
 
+
+[![Environment variables](https://img.shields.io/badge/Supports%20Environment%20variables-Remy%202.0-purple?logo=dotenv)](https://en.m.wikipedia.org/wiki/Environment_variable#:~:text=An%20environment%20variable%20is%20a,in%20which%20a%20process%20runs.)
+
+
 [![Discord.py](https://img.shields.io/badge/Discord.py-Remy-purple?logo=discord)(https://google.com)
 
 
