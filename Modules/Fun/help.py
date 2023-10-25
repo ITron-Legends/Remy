@@ -29,7 +29,7 @@ class Help(commands.Cog):
         
         embed.add_field(
             name="「 🎉 」Fun commands",
-            value="• `!ball`: Magic 8-ball.\n• `!meme`: Get a random meme.\n• `!ping`: Pong! Shows the latency of the Bot response.\n• `!insult`: Insult a user.\n• `!apod`: Astronomy Picture of the Day.\n• `!color r g b`: Sends a random color / specified color.\n• `!f1`: Information about the latest F1 race",
+            value="• `!ball`: Magic 8-ball.\n• `!meme`: Get a random meme.\n• `!ping`: Pong! Shows the latency of the Bot response.\n• `!insult`: Insult a user.\n• `!apod`: Astronomy Picture of the Day.\n• `!color r g b` : Sends a random color / specified color.\n• `!f1`: Information about the latest F1 race",
             inline=False
         )
 
