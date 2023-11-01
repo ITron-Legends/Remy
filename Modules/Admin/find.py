@@ -82,7 +82,7 @@ class Find(commands.Cog):
             thumbnail_url = None
             attempts = 0
             while attempts < 10:
-                thumbnail_response = requests.get(f"https://thumbnails.roblox.com/v1/users/avatar-headshot?userIds={user_id}&size=150x150&format=jpeg&isCircular=false")
+                thumbnail_response = requests.get(f"https://thumbnails.roblox.com/v1/users/avatar-headshot?userIds={user_id}&size=150x150&format=png&isCircular=false")
 
                 if thumbnail_response.status_code == 200:
                     thumbnail_data = thumbnail_response.json()
